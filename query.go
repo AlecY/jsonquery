@@ -3,7 +3,7 @@ package jsonquery
 import (
 	"fmt"
 
-	"github.com/antchfx/xpath"
+	"github.com/AlecY/xpath"
 )
 
 var _ xpath.NodeNavigator = &NodeNavigator{}

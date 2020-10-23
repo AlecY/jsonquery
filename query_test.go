@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/antchfx/xpath"
+	"github.com/AlecY/xpath"
 )
 
 func BenchmarkSelectorCache(b *testing.B) {
